@@ -1,0 +1,7 @@
+D:\C_Hash\CShapDayThree\SecoundAssingment\bin\Debug\SecoundAssingment.exe.config
+D:\C_Hash\CShapDayThree\SecoundAssingment\bin\Debug\SecoundAssingment.exe
+D:\C_Hash\CShapDayThree\SecoundAssingment\bin\Debug\SecoundAssingment.pdb
+D:\C_Hash\CShapDayThree\SecoundAssingment\obj\Debug\SecoundAssingment.csproj.CoreCompileInputs.cache
+D:\C_Hash\CShapDayThree\SecoundAssingment\obj\Debug\SecoundAssingment.exe
+D:\C_Hash\CShapDayThree\SecoundAssingment\obj\Debug\SecoundAssingment.pdb
+D:\C_Hash\CShapDayThree\SecoundAssingment\obj\Debug\SecoundAssingment.csprojAssemblyReference.cache

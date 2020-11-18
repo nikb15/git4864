@@ -1,0 +1,7 @@
+D:\C_Hash\CShapDayThree\ExceptionEg\bin\Debug\ExceptionEg.exe.config
+D:\C_Hash\CShapDayThree\ExceptionEg\bin\Debug\ExceptionEg.exe
+D:\C_Hash\CShapDayThree\ExceptionEg\bin\Debug\ExceptionEg.pdb
+D:\C_Hash\CShapDayThree\ExceptionEg\obj\Debug\ExceptionEg.csprojAssemblyReference.cache
+D:\C_Hash\CShapDayThree\ExceptionEg\obj\Debug\ExceptionEg.csproj.CoreCompileInputs.cache
+D:\C_Hash\CShapDayThree\ExceptionEg\obj\Debug\ExceptionEg.exe
+D:\C_Hash\CShapDayThree\ExceptionEg\obj\Debug\ExceptionEg.pdb

@@ -1,0 +1,7 @@
+D:\C_Hash\CShapDayThree\Inheritance\bin\Debug\Inheritance.exe.config
+D:\C_Hash\CShapDayThree\Inheritance\bin\Debug\Inheritance.exe
+D:\C_Hash\CShapDayThree\Inheritance\bin\Debug\Inheritance.pdb
+D:\C_Hash\CShapDayThree\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+D:\C_Hash\CShapDayThree\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+D:\C_Hash\CShapDayThree\Inheritance\obj\Debug\Inheritance.exe
+D:\C_Hash\CShapDayThree\Inheritance\obj\Debug\Inheritance.pdb
